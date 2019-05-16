@@ -1,0 +1,9 @@
+0.2
+	- Migrated to Java 7
+	
+1.0
+	- Removed 'lib' directory, no longer required
+	- Removed 'lazyreports.cfg', no longer required
+	- Fixed some file IO bugs
+	- While generating a report now empty lines in a level text file are skipped
+	- 'Separate in paragraphs' checkbox is now removed, every skill can have a 'crlf' checkbox
